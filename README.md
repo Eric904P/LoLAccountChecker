@@ -1,3 +1,9 @@
+THIS HAS BEEN FORKED FROM MADK'S GITHUB SO I CAN PLAY AROUND AND LEARN FROM IT.  BIG THANKS TO MADK FOR ALL HIS WORK!  I WILL PROBABLY RELEASE IT AT SOME POINT IN A WORKING STATE.
+
+Eventually I hope to create two things from this: 
+1) a working/stable version as it was intended
+2) ultra lightweight account checker (possibly command-line) for bulk lists
+
 Discontinued
 =================
 This tool has been discontinued, please check for forks as i will not update it anymore.
@@ -40,5 +46,3 @@ You can export your accounts to a JSON file (this way you can import it later), 
 
 ### Reupload
 The reason i'm reuploading this projects it's because people are selling it to others, this is a free open-source tool, i'm not going to change anything, the only thing i will probably update is the changes that are required between patches.
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CHEV6LWPMHUMW)
